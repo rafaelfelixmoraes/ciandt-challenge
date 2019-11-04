@@ -64,4 +64,4 @@ http://localhost:8080/swagger-ui.html
 
 ### Rafael Felix de Moraes
 
-### <a href="mailto:rafaelfelix1433@gmail.com?Subject=Java%20CI&T%20-%20Cielo" target="_top">Envie-me um e-mail</a>
+### <a href="mailto:rafaelfelix1433@gmail.com?Subject=Java%20CI&amp;T%20-%20Cielo" target="_top">Envie-me um e-mail</a>
