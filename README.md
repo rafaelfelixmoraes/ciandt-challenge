@@ -60,6 +60,11 @@ http://localhost:8080/delivery/{deliveryId}/step
 http://localhost:8080/swagger-ui.html
 ```
 
+#### - Spring Actuator - APIs para monitoramento da aplicação
+```
+http://localhost:8080/actuator
+```
+
 ## Autor
 
 ### Rafael Felix de Moraes
